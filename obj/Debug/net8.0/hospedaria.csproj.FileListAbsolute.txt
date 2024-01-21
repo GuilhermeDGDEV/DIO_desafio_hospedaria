@@ -1,0 +1,14 @@
+C:\trabalhos\dio\bootcamp_avanade_csharp\hospedaria\bin\Debug\net8.0\hospedaria.exe
+C:\trabalhos\dio\bootcamp_avanade_csharp\hospedaria\bin\Debug\net8.0\hospedaria.deps.json
+C:\trabalhos\dio\bootcamp_avanade_csharp\hospedaria\bin\Debug\net8.0\hospedaria.runtimeconfig.json
+C:\trabalhos\dio\bootcamp_avanade_csharp\hospedaria\bin\Debug\net8.0\hospedaria.dll
+C:\trabalhos\dio\bootcamp_avanade_csharp\hospedaria\bin\Debug\net8.0\hospedaria.pdb
+C:\trabalhos\dio\bootcamp_avanade_csharp\hospedaria\obj\Debug\net8.0\hospedaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\trabalhos\dio\bootcamp_avanade_csharp\hospedaria\obj\Debug\net8.0\hospedaria.AssemblyInfoInputs.cache
+C:\trabalhos\dio\bootcamp_avanade_csharp\hospedaria\obj\Debug\net8.0\hospedaria.AssemblyInfo.cs
+C:\trabalhos\dio\bootcamp_avanade_csharp\hospedaria\obj\Debug\net8.0\hospedaria.csproj.CoreCompileInputs.cache
+C:\trabalhos\dio\bootcamp_avanade_csharp\hospedaria\obj\Debug\net8.0\hospedaria.dll
+C:\trabalhos\dio\bootcamp_avanade_csharp\hospedaria\obj\Debug\net8.0\refint\hospedaria.dll
+C:\trabalhos\dio\bootcamp_avanade_csharp\hospedaria\obj\Debug\net8.0\hospedaria.pdb
+C:\trabalhos\dio\bootcamp_avanade_csharp\hospedaria\obj\Debug\net8.0\hospedaria.genruntimeconfig.cache
+C:\trabalhos\dio\bootcamp_avanade_csharp\hospedaria\obj\Debug\net8.0\ref\hospedaria.dll

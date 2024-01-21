@@ -1,8 +1,8 @@
 namespace hospedaria.Models;
 
-public class Suite
+public class Suite(string tipoSuite, int capacidade, decimal valorDiaria)
 {
-    public string TipoSuite { get; set; }
-    public string Capacidade { get; set; }
-    public decimal ValorDiaria { get; set; }
+    public string TipoSuite { get; set; } = tipoSuite;
+    public int Capacidade { get; set; } = capacidade;
+    public decimal ValorDiaria { get; set; } = valorDiaria;
 }
